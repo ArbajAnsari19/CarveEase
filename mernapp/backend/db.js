@@ -1,7 +1,9 @@
 const mongoose = require("mongoose");
 
-const password = "mASRZs7eE9wOMbWC";
-const url = `mongodb+srv://goFood:${password}@cluster0.u3szpsz.mongodb.net/gofoodmern`;
+// const password = "mASRZs7eE9wOMbWC";
+// const url = `mongodb+srv://goFood:${password}@cluster0.u3szpsz.mongodb.net/gofoodmern`;
+const url = `mongodb+srv://Arbaj19:lgkFWz2rZenUghtp@cluster0.kezlp3u.mongodb.net/craveease`;
+
 
 async function main() {
   try {
